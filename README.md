@@ -7,7 +7,8 @@ all models are already trained and saved as ```.pickle``` in the ```pickled_algo
   -then run plot.py to plot sentiment prediction in real time
 
 Because i can not upload files bigger than 100mb
-so first time running please uncomment following code
+so first time running please uncomment following code:
+
 ```#featuresets = [(find_features(rev), category) for (rev, category) in documents]```
 
 ```#save_featuresets = open("pickled_algos/featuresets.pickle","wb")```
