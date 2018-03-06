@@ -21,3 +21,6 @@ so first time running please uncomment following code:
 in file ```sentiment_mod.py``` and run it once to create ```featuresets.pickle```
 
 once done you can comment or delete it again
+
+
+you can change the keyword in ```twitter.py``` at the very end, it's default is ```"Bitcoin"```
