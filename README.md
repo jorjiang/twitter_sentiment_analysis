@@ -12,6 +12,7 @@ so first time running please uncomment following code
 #save_featuresets = open("pickled_algos/featuresets.pickle","wb")
 #pickle.dump(featuresets, save_featuresets)
 #save_featuresets.close()```
+
 in file ```sentiment_mod.py``` and run it once to create ```featuresets.pickle```
 
 once done you can comment or delete it again
